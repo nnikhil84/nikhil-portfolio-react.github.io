@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Modal from "../Modal";
 
-function PhotoList({ category }) {
+function ProjectList({ category }) {
   const [photos] = useState([
     {
       name: "About",
@@ -117,4 +117,4 @@ function PhotoList({ category }) {
   );
 }
 
-export default PhotoList;
+export default ProjectList;

@@ -1,5 +1,5 @@
 import React from "react";
-import { FaGithubSquare, FaMailBulk, FaLinkedin } from "react-icons/fa";
+import { FaGithubSquare, FaMailBulk, FaLinkedin, FaTwitterSquare } from "react-icons/fa";
 import { IconContext } from "react-icons";
 
 function Footer() {
@@ -19,6 +19,9 @@ function Footer() {
           </a>
           <a href="https://www.linkedin.com/in/nikhilnarendran/">
             <FaLinkedin />
+            <a href="https://twitter.com/NikhilN46385245">
+              <FaTwitterSquare />
+            </a>
           </a>
         </div>
       </IconContext.Provider>

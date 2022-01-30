@@ -1,6 +1,6 @@
 import React from "react";
-import { FaGithubSquare, FaChrome } from "react-icons/fa";
-import { IconContext } from "react-icons";
+// import { FaGithubSquare, FaChrome } from "react-icons/fa";
+// import { IconContext } from "react-icons";
 
 function Modal({ currentPhoto, onClose }) {
   const { name, category, link, description, index } = currentPhoto;
@@ -13,21 +13,21 @@ function Modal({ currentPhoto, onClose }) {
           Click to close this Page
         </button>
 
-        <IconContext.Provider value={{ className: "icon-color", size: 20 }}>
+        {/* <IconContext.Provider value={{ className: "icon-color", size: 20 }}> */}
           <div className="wrapper">
             <a href="https://github.com/nnikhil84">
               {" "}
               Repository for Project
-              <FaGithubSquare />
+              {/* <FaGithubSquare /> */}
             </a>
 
             <a href={link}>
               {" "}
               Application Deployed at
-              <FaChrome />
+              {/* <FaChrome /> */}
             </a>
           </div>
-        </IconContext.Provider>
+        {/* </IconContext.Provider> */}
         <p>{description}</p>
         <img
           alt="current category"

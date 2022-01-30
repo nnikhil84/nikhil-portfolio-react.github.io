@@ -20,7 +20,7 @@ function Header(props) {
         <a data-testid="link" href="/">
           <span role="img" aria-label="Tech_Man">
             {" "}
-            👩‍💻
+            👨🏻‍💻
           </span>{" "}
           Nikhil
         </a>

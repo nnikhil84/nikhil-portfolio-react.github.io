@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Nikhil's React Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Tasks Achieved
+* Project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+* 
 
 ## Available Scripts
 

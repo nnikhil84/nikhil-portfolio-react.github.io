@@ -11,13 +11,13 @@ function Footer() {
         <div className="wrapper">
           <p> </p>
           <p> Click for more </p>
-          <a href="https://github.com/anitapeppercorn">
+          <a href="https://github.com/nnikhil84">
             <FaGithubSquare />
           </a>
-          <a href="mailto:anita_r_ganti@yahoo.com">
+          <a href="mailto:nikhil.naren84@gmail.com">
             <FaMailBulk />
           </a>
-          <a href="https://www.linkedin.com/in/anita-ganti-9380961">
+          <a href="https://www.linkedin.com/in/nikhilnarendran/">
             <FaLinkedin />
           </a>
         </div>

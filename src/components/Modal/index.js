@@ -15,7 +15,7 @@ function Modal({ currentPhoto, onClose }) {
 
         <IconContext.Provider value={{ className: "icon-color", size: 20 }}>
           <div className="wrapper">
-            <a href="https://github.com/anitapeppercorn">
+            <a href="https://github.com/nnikhil84">
               {" "}
               Repository for Project
               <FaGithubSquare />

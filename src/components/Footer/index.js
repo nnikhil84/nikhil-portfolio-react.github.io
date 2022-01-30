@@ -26,7 +26,7 @@ function Footer() {
         </div>
       </IconContext.Provider>
     </footer>
-  );
+  )
 }
 
 export default Footer;

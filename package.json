@@ -21,9 +21,7 @@
     "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
-    "extends": [
-      "react-app"
-    ]
+    "extends": "react-app"
   },
   "browserslist": {
     "production": [

@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Header from "./components/Header";
 import Gallery from "./components/Gallery";
 import Contact from "./components/Contact";
-import Footer from "./components/Footer/index";
+import Footer from "./components/Footer";
 
 function App() {
   const [categories] = useState([

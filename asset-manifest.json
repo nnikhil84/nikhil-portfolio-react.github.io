@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/nnikhil84/nikhil-portfolio-react.github.io/static/css/main.078ec048.css",
-    "main.js": "/nnikhil84/nikhil-portfolio-react.github.io/static/js/main.e0ae5335.js",
-    "static/js/787.cebe5692.chunk.js": "/nnikhil84/nikhil-portfolio-react.github.io/static/js/787.cebe5692.chunk.js",
-    "static/media/0.jpg": "/nnikhil84/nikhil-portfolio-react.github.io/static/media/0.13f0a073e2a7b2592c36.jpg",
-    "static/media/2.jpg": "/nnikhil84/nikhil-portfolio-react.github.io/static/media/2.0a8ecb02109546558039.jpg",
-    "static/media/3.jpg": "/nnikhil84/nikhil-portfolio-react.github.io/static/media/3.64eb7317330fae6b4918.jpg",
-    "static/media/1.jpg": "/nnikhil84/nikhil-portfolio-react.github.io/static/media/1.87f47ea002b94a1c619d.jpg",
-    "static/media/4.jpg": "/nnikhil84/nikhil-portfolio-react.github.io/static/media/4.7711bef6ec0ba9772bcf.jpg",
-    "index.html": "/nnikhil84/nikhil-portfolio-react.github.io/index.html",
-    "main.078ec048.css.map": "/nnikhil84/nikhil-portfolio-react.github.io/static/css/main.078ec048.css.map",
-    "main.e0ae5335.js.map": "/nnikhil84/nikhil-portfolio-react.github.io/static/js/main.e0ae5335.js.map",
-    "787.cebe5692.chunk.js.map": "/nnikhil84/nikhil-portfolio-react.github.io/static/js/787.cebe5692.chunk.js.map"
+    "main.css": "/nikhil-portfolio-react.github.io/static/css/main.078ec048.css",
+    "main.js": "/nikhil-portfolio-react.github.io/static/js/main.275d50ad.js",
+    "static/js/787.cebe5692.chunk.js": "/nikhil-portfolio-react.github.io/static/js/787.cebe5692.chunk.js",
+    "static/media/0.jpg": "/nikhil-portfolio-react.github.io/static/media/0.13f0a073e2a7b2592c36.jpg",
+    "static/media/2.jpg": "/nikhil-portfolio-react.github.io/static/media/2.0a8ecb02109546558039.jpg",
+    "static/media/3.jpg": "/nikhil-portfolio-react.github.io/static/media/3.64eb7317330fae6b4918.jpg",
+    "static/media/1.jpg": "/nikhil-portfolio-react.github.io/static/media/1.87f47ea002b94a1c619d.jpg",
+    "static/media/4.jpg": "/nikhil-portfolio-react.github.io/static/media/4.7711bef6ec0ba9772bcf.jpg",
+    "index.html": "/nikhil-portfolio-react.github.io/index.html",
+    "main.078ec048.css.map": "/nikhil-portfolio-react.github.io/static/css/main.078ec048.css.map",
+    "main.275d50ad.js.map": "/nikhil-portfolio-react.github.io/static/js/main.275d50ad.js.map",
+    "787.cebe5692.chunk.js.map": "/nikhil-portfolio-react.github.io/static/js/787.cebe5692.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.078ec048.css",
-    "static/js/main.e0ae5335.js"
+    "static/js/main.275d50ad.js"
   ]
 }

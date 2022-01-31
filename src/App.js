@@ -12,12 +12,12 @@ function App() {
         "Nikhil is an experienced Property Manager with a strong problem solving and communication skills. Through collaboration and teamwork he has delivered to UAE and Canada's Real Estate Asset management since 2010. He has a Bachelor's degree in Hospitality Management and a Master's in Business Administration in Marketing and Retail Management with over 12 years of experience in Customer Experience Management.",
     },
     {
-      name: "Business Applications",
+      name: "Business-Applications",
       description:
         "Click on the image of the Application below to see more information. These are web applications built for business use; utilizing both front-end and full-stack tools",
     },
     {
-      name: "Front-End Projects",
+      name: "Front-End-Projects",
       description:
         "Click on the image of the Application below to see more information. These are projects completed with front-end development tools & skills",
     },
